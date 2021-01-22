@@ -1,0 +1,47 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body{
+	background-color: #f8dfdb;
+	color: #fff;
+}
+img{
+	width: 1520px;
+	height: 1000px;
+}
+.container{
+	position: relative;
+}
+.name{
+	position: absolute;
+	text-align: center;
+	top: 8px;
+	margin-left: 650px;
+}
+.menu{
+	position: absolute;
+	top: 8px;
+}
+.heading1{
+	position: absolute;
+	top: 90px;
+	font-size: 55px;
+	text-align: center;
+	width: 650px;
+	margin-left: 450px;
+	word-wrap: break-word;
+}
+.quote{
+	position: absolute;
+	top: 540px;
+}
+.box0{
+	position: absolute;
+	top: 560px;
+}
+.box1{
+	background-color: #fff
+	width:20px;
+}
